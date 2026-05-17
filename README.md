@@ -112,7 +112,7 @@ The project highlights how data analysis and visualization can help understand e
 ## 1. Clone Repository
 
 ```bash
-git clone <your-repository-link>
+git clone https://github.com/alonecode7/CodeAlpha_Unemployment-Analysis-Project.git
 ```
 
 ## 2. Install Dependencies
