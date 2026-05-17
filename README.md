@@ -163,7 +163,7 @@ Unemployment-Analysis-Project/
 # Author
 
 Shivam Gupta
-Data Analyst | Python Developer
+Data Analyst | Python Developer | Artificial Intelligence and Machine Learning Enthusiast
 
 - Email: [sg.shivamgupta083@gmail.com](mailto:sg.shivamgupta083@gmail.com)
 - [GitHub](https://github.com/alonecode7)
